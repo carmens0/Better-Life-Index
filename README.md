@@ -12,7 +12,7 @@ Il progetto si articola in tre fasi principali:
 - Analisi esplorativa e clustering dei dati relativi all'anno 2017 per individuare associazioni tra variabili e gruppi di paesi simili.
 - Modellizzazione statistica, utilizzando modelli di regressione e metodi di previsione per stimare l'evoluzione degli indici di vita.
 ## 📂 Struttura del Progetto
-`data/` → Contiene i dataset utilizzati per l'analisi.\
+`Datasets/` → Contiene i dataset utilizzati per l'analisi.\
 `code/` → Contiene i  codici in R per l'analisi dei dati, la pulizia dei dati, l'analisi statistica e la modellazione, diviso per parti.\
 `reports/` → Report finali e visualizzazioni dei risultati.
 ## 🛠️ Tecnologie Utilizzate
